@@ -17,7 +17,7 @@ import numpy as np
 
 """
 
-matrix = np.loadtxt(delimiter=",", fname='lesson_1\\rand_matrix.csv')
+matrix = np.loadtxt(delimiter=",", fname='rand_matrix.csv')
 print('Матрица полученная из файла rand_matrix.csv:\n%s' % matrix)
 
 
